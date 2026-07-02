@@ -1,0 +1,24 @@
+{
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "voices": {
+    "d": {
+      "name": "Draco",
+      "voice_id": "NXaTw4ifg0LAguvKuIwZ",
+      "note": "'Posh Josh' from the voice library — young RP, arrogant, smug, witty. Added 2026-07-02. Previously auditioned: Daniel (premade, too broadcast), Edward (goT3UYdM9bhm0n2lmKQx, too old).",
+      "voice_settings": { "stability": 0.4, "similarity_boost": 0.85, "style": 0.5 }
+    },
+    "h": {
+      "name": "Hermione",
+      "voice_id": "e6qsVnCuD0MWxmhZcuKz",
+      "note": "'Mia - Elegant Storyteller' from the voice library — young 20s British, soft, emotionally expressive. Added 2026-07-02. Low stability for a more frightened tremor. Previously: Lily (premade, too mature).",
+      "voice_settings": { "stability": 0.35, "similarity_boost": 0.85, "style": 0.55 }
+    },
+    "s": {
+      "name": "Stroud",
+      "voice_id": "WMKg7TxPpPWCryaXE42r",
+      "note": "'Cruella - Dangerously charming' from the voice library — British, haughty, velvet menace. Added to account 2026-07-02.",
+      "voice_settings": { "stability": 0.5, "similarity_boost": 0.8, "style": 0.5 }
+    }
+  }
+}

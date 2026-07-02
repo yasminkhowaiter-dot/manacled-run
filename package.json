@@ -1,0 +1,11 @@
+{
+  "name": "manacled-run",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "npx -y serve -l 8321 .",
+    "audio:dry": "node scripts/generate_audio.mjs --dry-run",
+    "audio": "node scripts/generate_audio.mjs"
+  }
+}
